@@ -99,4 +99,10 @@ python agent.py
 /downloadFile <agent_id> <path> - Download file
 
 ```
+<p align="center">
+  <img src="./Images/1.jpg" width="800" alt="ss" />
+</p>
 
+<p align="center">
+  <img src="./Images/2.jpg" width="500" alt="ss" />
+</p>
