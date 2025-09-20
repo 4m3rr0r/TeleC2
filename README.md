@@ -1,5 +1,11 @@
 # TeleC2 - Telegram Command and Control System
 
+
+<p align="center">
+  <img src="./Images/logo.png" width="400" alt="TeleC2 logo" />
+</p>
+
+
 TeleC2 is a Python-based Remote Administration Tool (RAT) that leverages the Telegram Bot API for covert command and control (C2) communication. This allows an operator to remotely manage and monitor systems from anywhere using a simple Telegram chat interface.
 
 The script includes features for remote command execution, file system management, surveillance (screenshots, webcam), keylogging, and more, with a focus on ease of use and stealth.
