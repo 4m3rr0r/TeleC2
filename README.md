@@ -10,11 +10,21 @@ TeleC2 is a Python-based Remote Administration Tool (RAT) that leverages the Tel
 
 The script includes features for remote command execution, file system management, surveillance (screenshots, webcam), keylogging, and more, with a focus on ease of use and stealth.
 
+
 **Disclaimer** : ⚠️ This tool is intended for educational and research purposes only. The author is not responsible for any misuse or damage caused by this program. Using this tool on systems where you do not have explicit permission is illegal and unethical.
 
 
 
+
 ## Features
+
+
+
+
+<p align="center">
+  <img src="./Images/3.png" width="400" alt="TeleC2 logo" />
+</p>
+
 
 - **Telegram-based C2**: Uses the Telegram Bot API for all communications, making it difficult to block.
 - **Encrypted Configuration**: Securely stores API keys and chat IDs in an encrypted file.
