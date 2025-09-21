@@ -59,7 +59,7 @@ The script includes features for remote command execution, file system managemen
 
 **1. Clone the repository:**
 ```
-git clone https://github.com/yourusername/telec2.git
+git clone https://github.com/4m3rr0r/telec2.git
 ```
 ```
 cd telec2
