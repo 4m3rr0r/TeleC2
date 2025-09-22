@@ -21,7 +21,7 @@ from cryptography.fernet import Fernet
 import tkinter as tk
 from tkinter import messagebox
 import ctypes
-import threading
+
 
 # Simple encryption functions (avoiding external dependencies issues)
 def simple_encrypt(data, key):
